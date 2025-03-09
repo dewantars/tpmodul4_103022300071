@@ -7,9 +7,7 @@ namespace tpmodul4_103022300071
     {
         public static void Main(string[] args)
         {
-            KodePos kodePos = new KodePos();
-
-            kodePos.DisplayAllKodePos();
+            
 
         }
     }

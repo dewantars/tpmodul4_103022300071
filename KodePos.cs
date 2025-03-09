@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace tpmodul4_103022300071
 {
-    class Class1
+    class KodePos
     {
     }
 }
