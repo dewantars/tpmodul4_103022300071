@@ -10,7 +10,14 @@ namespace tpmodul4_103022300071
             KodePos kodePos = new KodePos();
 
             kodePos.DisplayAllKodePos();
+            Console.WriteLine();
+            Console.WriteLine("\nSimulasi DoorMachine:");
+            DoorMachine door = new DoorMachine();
 
+            door.BukaPintu(); 
+            door.BukaPintu(); 
+            door.KunciPintu(); 
+            door.KunciPintu(); 
         }
     }
 }
